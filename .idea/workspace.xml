@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client-Service" beforeDir="false" afterPath="$PROJECT_DIR$/Client-Service" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client-Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Client-Service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client-Service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Client-Service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config-repo/Client/Clietn-Service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/client-Service-dev.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config-repo/Client/Clietn-Service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/client-Service-prod.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config-repo/Client/Clietn-Service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/client-Service.properties" afterDir="false" />
@@ -19,11 +20,13 @@
       <change beforePath="$PROJECT_DIR$/Config-repo/Produit/Produit-Service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/produit-Service-prod.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config-repo/Produit/Produit-Service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/produit-Service.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config-repo/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config_Service/src/main/java/ma/emsi/config_service/ConfigServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Config_Service/src/main/java/ma/emsi/config_service/ConfigServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config_Service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config_Service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Facture-Service" beforeDir="false" afterPath="$PROJECT_DIR$/Facture-Service" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Facture-Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facture-Service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture-Service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Facture-Service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Produit-Service" beforeDir="false" afterPath="$PROJECT_DIR$/Produit-Service" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Produit-Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Produit-Service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produit-Service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Produit-Service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Config-repo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -106,7 +109,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigServiceApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaDiscoveryApplication">
     <configuration name="ClientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Client-Service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ma.emsi.clientservice.ClientServiceApplication" />
@@ -175,6 +178,7 @@
       <workItem from="1672914889166" duration="6142000" />
       <workItem from="1672921952182" duration="730000" />
       <workItem from="1672931110262" duration="1088000" />
+      <workItem from="1672944303822" duration="1970000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1672915383635</created>
