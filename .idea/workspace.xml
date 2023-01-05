@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9272d80d-49a1-422a-bffc-7b99cface6b2" name="Changes" comment="commit" />
+    <list default="true" id="9272d80d-49a1-422a-bffc-7b99cface6b2" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_1_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ecwid_consul_consul_api_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_core_3_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_4_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_discovery_3_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_3_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_discovery_3_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client-Service" beforeDir="false" afterPath="$PROJECT_DIR$/Client-Service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client-Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Client-Service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Client/Clietn-Service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/clietn-Service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Client/Clietn-Service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/clietn-Service-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Client/Clietn-Service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/clietn-Service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Facture/Facture-Service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/facture-Service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Facture/Facture-Service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/facture-Service-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Facture/Facture-Service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/facture-Service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Gateway/Gateway-Service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/gateway-Service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Produit/Produit-Service-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/produit-Service-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Produit/Produit-Service-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/produit-Service-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/Produit/Produit-Service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/produit-Service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config-repo/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-repo/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config_Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Config_Service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config_Service/src/main/java/ma/emsi/config_service/ConfigServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Config_Service/src/main/java/ma/emsi/config_service/ConfigServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config_Service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config_Service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture-Service" beforeDir="false" afterPath="$PROJECT_DIR$/Facture-Service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture-Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facture-Service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produit-Service" beforeDir="false" afterPath="$PROJECT_DIR$/Produit-Service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produit-Service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Produit-Service/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +50,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Produit-Service" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -35,37 +66,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "D:/usb/new/IdeaProjects/vente",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "spring.configuration.checksum": "d5dce18436bd5af68318fce0db392d67",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/usb/new/IdeaProjects/vente/Config-repo/Produit&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d5dce18436bd5af68318fce0db392d67&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ma.emsi.factureservice.models" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\usb\new\IdeaProjects\vente\Config-repo\Produit" />
+      <recent name="D:\usb\new\IdeaProjects\vente\Config-repo\Facture" />
+      <recent name="D:\usb\new\IdeaProjects\vente\Config-repo\Client" />
       <recent name="C:\Users\youss\Desktop\vente\Produit-Service\src\main\resources\graphQL" />
       <recent name="C:\Users\youss\Desktop\vente\Facture-Service\src\main\resources\graphQL" />
-      <recent name="$PROJECT_DIR$/Gateway-Service/src/main/resources" />
-      <recent name="$PROJECT_DIR$/Produit-Service/src/main/java/ma/emsi/produitservice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\usb\new\IdeaProjects\vente\Config-repo" />
+      <recent name="D:\usb\new\IdeaProjects\vente\Config-repo\Produit" />
+      <recent name="D:\usb\new\IdeaProjects\vente\Config-repo\Facture" />
+      <recent name="D:\usb\new\IdeaProjects\vente\Config-repo\Client" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ma.emsi.clientservice.repos" />
@@ -144,7 +183,9 @@
       <workItem from="1672418367210" duration="802000" />
       <workItem from="1672852524095" duration="10688000" />
       <workItem from="1672913694674" duration="533000" />
-      <workItem from="1672914889166" duration="825000" />
+      <workItem from="1672914889166" duration="6142000" />
+      <workItem from="1672921952182" duration="730000" />
+      <workItem from="1672931110262" duration="641000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1672915383635</created>
